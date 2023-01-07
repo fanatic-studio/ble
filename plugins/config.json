@@ -1,0 +1,9 @@
+{
+	"dependencies": {
+		"eeui/ble": {
+			"requireName": "eeui/ble",
+			"name": "eeui/ble",
+			"url": "local"
+		}
+	}
+}

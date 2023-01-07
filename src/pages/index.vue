@@ -9,8 +9,7 @@
 
             <navbar-item type="title">
                 <div class="navbar-main">
-                    <image class="navbar-logo" src="logo-white.png"></image>
-                    <text class="navbar-title">EEUI</text>
+                    <text class="navbar-title">Ble</text>
                 </div>
             </navbar-item>
 
