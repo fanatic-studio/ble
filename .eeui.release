@@ -1,0 +1,8 @@
+{
+	"name": "ble",
+	"appName": "蓝牙Ble",
+	"applicationID": "com.seetech.ble",
+	"bundleIdentifier": "com.seetech.ble",
+	"release": "2.5.1",
+	"location": "github"
+}
